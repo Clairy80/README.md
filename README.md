@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Claire</h1>
 <h3 align="center">I am a coding starter :-)</h3>
 
-- 🔭 I’m currently working on [building a photo gallery](https://www.freecodecamp.org/Clairy80)
+- 🔭 I’m currently learning Javascript.
 
-- 🌱 I’m currently learning **Grid**
+- 🌱 Follow my progress https://www.freecodecamp.org/Clairy80
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
