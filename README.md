@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Claire</h1>
 <h3 align="center">I am a coding starter :-)</h3>
 
-- 🔭 I’m currently learning Javascript.
+- 🔭 I’m currently learning React.
 
 - 🌱 Follow my progress https://www.freecodecamp.org/Clairy80
 
